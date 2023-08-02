@@ -6,6 +6,6 @@ A company needs to restrict outgoing traffic from its server using a firewall. T
 
 ## solution
 Read the solution.md file for detailed steps on how I tackled this situation.
-[Contribution guidelines for this project](/firewall/blob/main/solution.md)
+[Contribution guidelines for this project](/firewall/blob/main/solution.md) 
 
 
