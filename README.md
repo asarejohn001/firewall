@@ -9,5 +9,6 @@ Read the [solution](solution) file for detailed steps on how I tackled this situ
 
 ## Project 2 Description
 Block outbound traffic for a server but allow access to google.com
+Check [azure firewall policy](azureFirewallPolicy.md) for my solution.
 
 
