@@ -6,9 +6,3 @@ A company needs to restrict outgoing traffic from its server using a firewall. T
 ### Solution
 Read the [solution](solution) file for detailed steps on how I tackled this situation.
 
-## Project 2 Description
-Block outbound traffic for a server but allow access to google.com
-### Solution
-Check [azure firewall policy](azureFirewallPolicy.md) for my solution.
-
-
